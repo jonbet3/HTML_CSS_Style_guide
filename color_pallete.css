@@ -1,0 +1,62 @@
+.color-section{
+  padding-top: 100px;
+  box-sizing: border-box;
+  border-bottom: 1px solid #dddddd;
+  background-color: #ffffff;
+  left: 0px;
+  top: 0px;
+  overflow-y: auto;
+  padding-left:10%;
+  padding-Right:10%;
+  text-align: center;
+  width: 100%;
+  z-index: 999;
+}
+.color-section a{
+  display: inline-block;
+  width: 300px;
+  padding: 10px;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 2px;
+  color: #736B92;
+  text-transform: uppercase;
+}
+
+.color-section p{
+  text-align: left;
+  background-color: #ffffff;
+  height: 50px;
+  font-size: 15px;
+  margin-top: 0;
+}
+
+.plump-purple{
+  background-color: #52489C;
+  height: 50px;
+  padding: 5px;
+}
+
+.true-Blue{
+  background-color: #4062BB;
+  height: 50px;
+  padding: 5px;
+}
+
+.max-blue-green{
+  background-color: #59c3c3;
+  height: 50px;
+  padding: 5px;
+}
+
+.buff{
+  background-color: #F3DE8A;
+  height: 50px;
+  padding: 5px;
+}
+
+.fiery-rose{
+  background-color: #F45B69;
+  height: 50px;
+  padding: 5px;
+}
